@@ -1,0 +1,601 @@
+[
+    {
+        "nid": "Berserker",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Arch_Mogall",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Archer",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Assassin",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Bishop",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Brigand",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Cavalier",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Citizen",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Cleric",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Entombed",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Falcoknight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_General",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Great_Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Mage (1)",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Mage_Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Mercenary",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Mogall",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Monk",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Myrmidon",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Paladin",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Pegasus_Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Pirate",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Ranger",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Revenant",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Sage",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Shaman",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Sniper",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Soldier",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Sword_Bonewalker",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Sword_Wight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Swordmaster",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Thief",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Troubadour",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Valkyrie",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Vanguard",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Warrior",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Wyvern_Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Wyvern_Lord",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Wyvern_Rider",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Knight (M) SALVAGED Axe {SALVAGED}",
+        "subicon_dict": {
+            "Knight (M) SALVAGED Axe {SALVAGED} 0, 0": [
+                0,
+                0
+            ],
+            "Kni": [
+                0,
+                0
+            ],
+            "Armored Axe": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Knight (M) SALVAGED Lance {SALVAGED}",
+        "subicon_dict": {
+            "Knight (M) SALVAGED Lance {SALVAGED} 0, 0": [
+                0,
+                0
+            ],
+            "Armored Lance": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Knight (M) SALVAGED Sword {SALVAGED}",
+        "subicon_dict": {
+            "Armored Sword": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Fighter (M) Tellius-Style Axe {flasuban}",
+        "subicon_dict": {
+            "Fighter": [
+                0,
+                0
+            ],
+            "Generic_Portrait_Fighter 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Axe Rider",
+        "subicon_dict": {
+            "Axe Rider 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Sword Rider",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lance Rider",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lance Fighter",
+        "subicon_dict": {
+            "Lance_Fighter 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Shaman (F) Magic {Uncredited}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Druid (M) Magic {IS}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Druid (F) Magic {L95}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Mage (F) Thunder (Leif)",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Halberdier (M) Lance {TBA}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Halberdier (M) Dragoon Lance {Uncredited}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Summoner (M) {Uncredited}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Great Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Axe Paladin",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sword Paladin",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lance Paladin",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Glory Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Duke Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Golden Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Axe General",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lance General",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sword General",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Lance Marshall",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sword Marshall",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Axe Marshall",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Wyvern Rider (U) Axe {flasuban}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Wyvern Lord (U) Axe {flasuban}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Wyvern Knight (U) Axe {topazlight}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Wyvern Knight (U) Lance {IS}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Nomad (M) Bow {IS}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Nomad Trooper (M) Bow {IS}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dragon Knight (U) Axe {topazlight}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dragon Lord (U) Axe {flasuban}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Dragon_Knight",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Generic_Portrait_Dragon_Lord",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Chieftain (M) Bow {IS} - Copy",
+        "subicon_dict": {
+            "Chieftain (M) Bow {IS} 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Bow Knight (M) Updated {Der, HyperGammaSpaces}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sniper (F) Bow {L95}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Archer (F) Improved {Der}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Archer (M) Improved {Der}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Marksman",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "MarksmanFemale",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Malig Knight (M) Magic {Pikmin}",
+        "subicon_dict": {
+            "Wicked Rider0, 0": [
+                0,
+                0
+            ],
+            "Wicked Rider 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Hunter (M) {Spud}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Hunter (F) {Spud, Jj09}",
+        "subicon_dict": {
+            "Hunter (F) {Spud, Jj09} 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Ranger (F) Bow {RobertFPY}",
+        "subicon_dict": {
+            "RangerFemale 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Paladin (M) SALVAGED Bow {Sir_Dadou}",
+        "subicon_dict": {
+            "Ranger_Knight 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Paladin (F) SALVAGED Bow {VelvetKitsune, Sir_Dadou, RobertFPY}",
+        "subicon_dict": {
+            "Ranger_Knight 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Seraph Knight (F) Lance {CamusZekeSirius, flasuban}",
+        "subicon_dict": {
+            "Valkyria 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Pirate (M) DS-Style {Der}",
+        "subicon_dict": {
+            "Pirate 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Berserker (M) Axe {IS}",
+        "subicon_dict": {
+            "Bloodserker 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Warrior (M) Tellius + helmet {Rasdel, Jey the Count}",
+        "subicon_dict": {
+            "Warrior (M) Tellius + helmet {Rasdel, Jey the Count} 0, 0": [
+                0,
+                0
+            ],
+            "Reaver 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Brigand (M) Wolf Rider {Zoramine}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Berserker (M) Wolf Rider {Zoramine}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Thief (F) Sword {L95}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Rogue (F) {L95}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Assassin (M) Dual-Swords {Scraiza, Sword of HaE}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Assassin (F) Knives (Pushwall, L95)",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Trickster (M) Sword T3 {Jj09, Scrazia, Sword of HaE}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Trickster (F) Sword T2 {Jj09, Scraiza, Sword of HaE,SableMage}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Assassin (M) Dual-Swords-Generic {Leif, Scraiza, Sword of HaE}",
+        "subicon_dict": {
+            "Assassin (M) Dual-Swords-Generic {Leif, Scraiza, Sword of HaE} 0, 0": [
+                0,
+                0
+            ],
+            "Reaper (M) Dual-Swords-Generic {Leif, Scraiza, Sword of HaE} 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Druid (F) Magic {L95}_1",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Summoner (F) {Samirplayz}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dark Druid (M) Magic {CamusZekeSirius}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Sage (F) Magic {L95}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Archsage (M) Staff {Orihara_Saki}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Monk (M) Magic {Blademaster, ltranc}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Cleric Updated (F) Staff {flasuban, HyperGammaSpaces}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Bishop (F) Staff {L95}",
+        "subicon_dict": {
+            "Bishop (F) Staff {L95} 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Bishop (M) Staff {IS}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Bishop (F) Staff {L95}_1",
+        "subicon_dict": {
+            "Bishop (F) Staff {L95}_1 0, 0": [
+                0,
+                0
+            ]
+        }
+    },
+    {
+        "nid": "Troubadour (M) Staff {Leif}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Valkyrie (M) Non-Religious Staff {Der}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Dark Knight (M) Hood Magic {Pikmin}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Myrmidon (F) Sword {L95}",
+        "subicon_dict": {}
+    },
+    {
+        "nid": "Swordmaster (F) Sword {L95}",
+        "subicon_dict": {}
+    }
+]

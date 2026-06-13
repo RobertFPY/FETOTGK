@@ -1,0 +1,578 @@
+[
+    [
+        "Chapter Sound",
+        false,
+        false,
+        96
+    ],
+    [
+        "Distant Roads",
+        false,
+        false,
+        1
+    ],
+    [
+        "Quiet Burn",
+        false,
+        true,
+        2
+    ],
+    [
+        "Shadow of the Enemy",
+        false,
+        false,
+        3
+    ],
+    [
+        "Main Theme",
+        false,
+        false,
+        4
+    ],
+    [
+        "Grasp at Victory",
+        false,
+        false,
+        5
+    ],
+    [
+        "Attack",
+        false,
+        false,
+        6
+    ],
+    [
+        "Defense",
+        false,
+        false,
+        7
+    ],
+    [
+        "The Battle Must Be Won",
+        false,
+        false,
+        8
+    ],
+    [
+        "Healing",
+        false,
+        false,
+        9
+    ],
+    [
+        "Combat Preparation",
+        false,
+        false,
+        10
+    ],
+    [
+        "Shops",
+        false,
+        false,
+        11
+    ],
+    [
+        "Armory",
+        false,
+        false,
+        12
+    ],
+    [
+        "Game Over",
+        false,
+        false,
+        13
+    ],
+    [
+        "In Sorrows Shroud",
+        false,
+        false,
+        14
+    ],
+    [
+        "To A Higher Place",
+        false,
+        false,
+        15
+    ],
+    [
+        "Victory Now!",
+        false,
+        false,
+        16
+    ],
+    [
+        "Winning Road",
+        false,
+        false,
+        17
+    ],
+    [
+        "Rise to the Challenge",
+        false,
+        false,
+        18
+    ],
+    [
+        "Strike",
+        false,
+        false,
+        19
+    ],
+    [
+        "Safeguard",
+        false,
+        false,
+        20
+    ],
+    [
+        "Enemies Appear",
+        false,
+        false,
+        21
+    ],
+    [
+        "Winds Across the Plains",
+        false,
+        false,
+        22
+    ],
+    [
+        "A Hint of Things to Come",
+        false,
+        false,
+        23
+    ],
+    [
+        "A Knight's Oath",
+        false,
+        false,
+        24
+    ],
+    [
+        "Ambient Forest",
+        false,
+        false,
+        25
+    ],
+    [
+        "Ambient Ship",
+        false,
+        false,
+        26
+    ],
+    [
+        "Ambient Ship-intro",
+        false,
+        false,
+        27
+    ],
+    [
+        "An Unexpected Caller",
+        false,
+        false,
+        28
+    ],
+    [
+        "Arena Tactics",
+        false,
+        false,
+        29
+    ],
+    [
+        "Binding Ties",
+        false,
+        false,
+        30
+    ],
+    [
+        "Black Fang",
+        false,
+        false,
+        31
+    ],
+    [
+        "Calamity Bringer",
+        false,
+        false,
+        32
+    ],
+    [
+        "Companions",
+        false,
+        false,
+        33
+    ],
+    [
+        "Curing",
+        false,
+        false,
+        34
+    ],
+    [
+        "Destiny Enhanced by Fear",
+        false,
+        false,
+        35
+    ],
+    [
+        "Distant Travels",
+        false,
+        false,
+        36
+    ],
+    [
+        "Distant Utopia",
+        false,
+        false,
+        37
+    ],
+    [
+        "Distant Utopia-intro",
+        false,
+        false,
+        38
+    ],
+    [
+        "Dragon's Gate I",
+        false,
+        false,
+        39
+    ],
+    [
+        "Eyes of Sorrow",
+        false,
+        false,
+        40
+    ],
+    [
+        "Final Farewell",
+        false,
+        false,
+        41
+    ],
+    [
+        "Fire Emblem Theme Slow",
+        false,
+        false,
+        42
+    ],
+    [
+        "Fire Emblem Theme",
+        false,
+        false,
+        43
+    ],
+    [
+        "Fortune Telling",
+        false,
+        false,
+        44
+    ],
+    [
+        "Friendship and Adventure",
+        false,
+        false,
+        45
+    ],
+    [
+        "Girl of the Plains",
+        false,
+        false,
+        46
+    ],
+    [
+        "Going My Way",
+        false,
+        false,
+        47
+    ],
+    [
+        "Happiness Abounds",
+        false,
+        false,
+        48
+    ],
+    [
+        "Into the Shadow of Triumph",
+        false,
+        false,
+        49
+    ],
+    [
+        "Land of the Swirling Sands",
+        false,
+        false,
+        50
+    ],
+    [
+        "Legendary Inheritance",
+        false,
+        false,
+        51
+    ],
+    [
+        "Light to Tomorrow",
+        false,
+        false,
+        52
+    ],
+    [
+        "Loyalty",
+        false,
+        false,
+        53
+    ],
+    [
+        "Lyn's Desire",
+        false,
+        false,
+        54
+    ],
+    [
+        "Merlinus",
+        false,
+        false,
+        55
+    ],
+    [
+        "Messenger from the Darkness",
+        false,
+        false,
+        56
+    ],
+    [
+        "Nabata's Wandering Messenger",
+        false,
+        false,
+        57
+    ],
+    [
+        "One Heart",
+        false,
+        false,
+        58
+    ],
+    [
+        "One Heart-intro",
+        false,
+        false,
+        59
+    ],
+    [
+        "Precious Things",
+        false,
+        false,
+        60
+    ],
+    [
+        "Prepare to Charge",
+        false,
+        false,
+        61
+    ],
+    [
+        "Raid!",
+        false,
+        false,
+        62
+    ],
+    [
+        "Raise Your Spirits",
+        false,
+        false,
+        63
+    ],
+    [
+        "Receive the Blessings of Water",
+        false,
+        false,
+        64
+    ],
+    [
+        "Recollection of a Petal",
+        false,
+        false,
+        65
+    ],
+    [
+        "Reminiscence",
+        false,
+        false,
+        66
+    ],
+    [
+        "Requiem",
+        false,
+        false,
+        67
+    ],
+    [
+        "Respite in Battle",
+        false,
+        false,
+        68
+    ],
+    [
+        "Results",
+        false,
+        false,
+        69
+    ],
+    [
+        "Ride the Wind",
+        false,
+        false,
+        70
+    ],
+    [
+        "Road of Trials",
+        false,
+        false,
+        71
+    ],
+    [
+        "Scars of the Scouring",
+        false,
+        false,
+        72
+    ],
+    [
+        "Shadow Approaches",
+        false,
+        false,
+        73
+    ],
+    [
+        "Ships and Homes",
+        false,
+        false,
+        74
+    ],
+    [
+        "Shocking Truth I",
+        false,
+        false,
+        75
+    ],
+    [
+        "ShrineSounds",
+        false,
+        false,
+        76
+    ],
+    [
+        "Silent Ground",
+        false,
+        false,
+        77
+    ],
+    [
+        "Strategem",
+        false,
+        false,
+        78
+    ],
+    [
+        "Strike_1",
+        false,
+        false,
+        79
+    ],
+    [
+        "The Archsage Athos",
+        false,
+        false,
+        80
+    ],
+    [
+        "The Cogs of Fate",
+        false,
+        false,
+        81
+    ],
+    [
+        "The Eight Generals",
+        false,
+        false,
+        82
+    ],
+    [
+        "The Inn",
+        false,
+        false,
+        83
+    ],
+    [
+        "The Messenger",
+        false,
+        false,
+        84
+    ],
+    [
+        "To the Heights - Intro",
+        false,
+        false,
+        85
+    ],
+    [
+        "To the Heights",
+        false,
+        false,
+        86
+    ],
+    [
+        "Together, We Ride!",
+        false,
+        false,
+        87
+    ],
+    [
+        "Triumph",
+        false,
+        false,
+        88
+    ],
+    [
+        "What Comes from Darkness",
+        false,
+        false,
+        89
+    ],
+    [
+        "When the Rush Comes",
+        false,
+        false,
+        90
+    ],
+    [
+        "WindSounds",
+        false,
+        false,
+        91
+    ],
+    [
+        "Within Sadness",
+        false,
+        false,
+        92
+    ],
+    [
+        "Within Sadness-intro",
+        false,
+        false,
+        93
+    ],
+    [
+        "Raise Your Spirits-intro",
+        false,
+        false,
+        94
+    ],
+    [
+        "Quiet Burn-battle",
+        false,
+        false,
+        95
+    ]
+]
